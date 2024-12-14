@@ -145,30 +145,7 @@ void turnRight() {
 
 ---
 
-## 6. Uploading to GitHub
 
-1. Create a new repository on GitHub.
-2. Add the following structure:
-
-```
-TankRobotProject/
-├── CircuitDiagram.png
-├── Code/
-│   └── TankRobot.ino
-├── README.md
-├── ComponentsList.txt
-└── Images/
-    └── AssembledRobot.jpg
-```
-
-3. Push the project files:
-   ```bash
-   git init
-   git add .
-   git commit -m "Initial commit"
-   git branch -M main
-   git remote add origin <your-repo-link>
-   git push -u origin main
    ```
 
 Let me know if you need a hand drawing the circuit diagram or any additional details!
