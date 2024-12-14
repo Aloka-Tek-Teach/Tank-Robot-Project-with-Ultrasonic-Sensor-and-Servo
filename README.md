@@ -4,7 +4,7 @@ This project involves building a tank-style robot equipped with a microcontrolle
 
 ---
 
-![Description of Image](Images/filename.png)
+![Description of Image](unnamed.webp)
 
 ## 1. Components Required
 
